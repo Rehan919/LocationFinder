@@ -2,7 +2,11 @@
 
 
 Step1: Open the website 000webhost and create a account in it.
+
+
 step2: Click on the create website option 
+
+
 Step3: Once the website is created click on manage 
 Step4: You can find the File Manager option in the Dashboard
 Step5: Open the File Manager
